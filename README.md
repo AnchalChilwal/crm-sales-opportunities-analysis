@@ -26,8 +26,16 @@ CRM Sales Analysis is a comprehensive data analytics project in which raw sales 
 
 ## Key Insights
 ### Executive Summary
-* The dataset contains 10,000 customers.
-*
+* The dataset contains four tables with total records of 8800.
+* Account Overview-Total Companies are 85,total Sectors 10, total Annual Revenue
+* Product Overview-Total Products-7,Total Series-3,Average price $6023.57.
+* Sales Pipeline Overview-Total Opportunities-8800,Total Deals-8800,Total Sales Agent-30.
+* Sales Team Analysis-Win Rate-48.16%,Lost Rate-28.10%.
+* Kan-code Company is generating the highest revenue $3,441,455,followed by Konex with a revenue of $2,69,245.
+* Software Sector is generating the highest revenue $30,950.
+* Kan-code is having employee distribution count 34288.
+* Software Sector is having employee distribution count 79950.
+ 
 
 ### Sales Team Analysis
 * Inactive customers have a higher churn rate (26.85%) compared to active customers.
