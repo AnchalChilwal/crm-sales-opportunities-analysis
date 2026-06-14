@@ -26,22 +26,36 @@ CRM Sales Analysis is a comprehensive data analytics project in which raw sales 
 
 ## Key Insights
 ### Executive Summary
-* The dataset contains four tables with total records of 8800.
-* Account Overview-Total Companies are 85,total Sectors 10, total Annual Revenue
-* Product Overview-Total Products-7,Total Series-3,Average price $6023.57.
-* Sales Pipeline Overview-Total Opportunities-8800,Total Deals-8800,Total Sales Agent-30.
-* Sales Team Analysis-Win Rate-48.16%,Lost Rate-28.10%.
-* Kan-code Company is generating the highest revenue $3,441,455,followed by Konex with a revenue of $2,69,245.
-* Software Sector is generating the highest revenue $30,950.
-* Kan-code is having employee distribution count 34288.
-* Software Sector is having employee distribution count 79950.
- 
+* The dataset contains four tables with a total of **8,800 records**.
+* Account Overview: Total companies are **85**, and total sectors are **10**, total annual revenue $ **169543.80** .
+* Product Overview: Total products are **7**, total series are **3**, and the average price is **$6,023.57**.
+* Sales Pipeline Overview: Total opportunities are **8,800**, total deals are **8,800**, and total sales agents are **30**.
+* Sales Team Analysis: Win rate is **48.16%**, and lost rate is **28.10%**.
+* Kan-code is the highest revenue-generating company with **$3,441,455**, followed by Konex with **$269,245**.
+* The Software sector is the highest revenue-generating sector with **$30,950**.
+* Kan-code has an employee distribution count of **34,288**.
+* The Software sector has an employee distribution count of **79,950**.
 
-### Sales Team Analysis
-* Inactive customers have a higher churn rate (26.85%) compared to active customers.
+## Sales Team Analysis
+*  Manager **Melvin Marxen** generated the highest revenue of **$2,251,930** with **882 won deals**.
+*  Manager **Rocco Neubert** has a win rate of **52.07%** and the least average deal closure time of **45.84 days**.
+*  Sales agent **Darcel Schlecht** generated the highest revenue of **$1,153,214** and has the highest number of won deals at **349**.
+*  Sales agent **Reed Clapper** has the highest win rate of **65.40%**.
+*  Sales agent **Cecily Lapkin** has the least average deal closure time of **38.74 days**.
 
-### Quarter and Product Analysis
+## Quarter and Product Analysis
+* Q1 revenue is **$1,134,672**, with **531 won deals**, **116 lost deals**, and a win rate of **82.07%**.
+* Q2 revenue is **$3,086,111**, with **1,254 won deals**, **778 lost deals**, and a win rate of **61.71%**.
+* Q3 revenue is **$2,982,255**, with **1,257 won deals**, **790 lost deals**, and a win rate of **61.41%**.
+* Q4 revenue is **$2,802,496**, with **1,196 won deals**, **789 lost deals**, and a win rate of **60.25%**.
 
+### Product Performance
+* MG Special revenue is **$43,768**, with **793 won deals**, **430 lost deals**, and a win rate of **48.03%**.
+* GTK 500 revenue is **$400,612**, with **15 won deals**, **10 lost deals**, and a win rate of **37.50%**.
+* MG Advanced revenue is **$2,216,387**, with **654 won deals**, **430 lost deals**, and a win rate of **46.32%**.
+* GTX Plus Pro revenue is **$2,629,651**, with **479 won deals**, **266 lost deals**, and a win rate of **49.48%**.
+* GTX Basic revenue is **$2,499,263**, with **915 won deals**, **521 lost deals**, and a win rate of **49.04%**.
+* GTX Plus Basic revenue is **$705,275**, with **653 won deals**, **398 lost deals**, and a win rate of **47.22%**.
 
 ## SQL Queries
 - [Data Preparation & Data Quality Assessment](CRM%20Sales%20Analysis/SQL%20Queries/Data%20Preparation%20%26%20Data%20Quality%20Assessment(%20SQL%20Query%201).sql)
@@ -54,28 +68,17 @@ CRM Sales Analysis is a comprehensive data analytics project in which raw sales 
 ![Sales Team Analysis](CRM%20Sales%20Analysis/Dashboard/Sales%20Team%20Analysis(Page%202).png)
 ![Quarter and Product Analysis](CRM%20Sales%20Analysis/Dashboard/Quarter%20%26%20Product%20Analysis(Page%203).png)
 
-
 ## PowerBI 
 ![Dashboard](CRM%20Sales%20Analysis/CRM%20Sales/CRM%20Sales.pbix)
 
-## Results & Conclusion
-
-* Customer churn is mainly driven my inactivity,age, low engagement(low service count) as well as geography.So these can be considered the primary factors causing churn.
-* In contrast,factors like salary segemnt,credit card count and credit score have less impact on customer churn.
-
-
-
 ### Recommendations
+* Diversify revenue sources by increaing dependency on low revenue producing companies to minimize business risk.
+* Standardize sales team performance strategy by aligning revenue generation, win rate, and deal closure speed across all agents, and using top performers as benchmarks for training.
+* Improve quarterly consistency by analyzing Q1’s strong performance and replicating the same sales strategies across rest of the quarters.
+* Optimize product performance by improving underperforming products through better targeting or pricing strategies, while scaling high-performing GTX series products. 
+* Strengthen sales team efficiency balance by bridging the gap between high-volume performers and high-conversion performers to create a more balanced sales force.
 
-* Increase engagement initiatives for inactive customers.
-* Develop targeted retention programs for mature customers.
-* Some geography-specific strategies should be taken.
-* Promote additional banking products to high-balance customers.
-* Implement personalized retention strategies for high-value customer segments.
-* Most customers have higher credit score means bank is serving premium customers,so reward such as offers or premium services should be given so that they don't leave the bank.
-* Most of the customers have credit cards which can be the  major factor contributing to revenue generation got bank,so credit cards with additional offers should be introduced.
-* Further customer feedbacks should be taken timely to avoid churn.
-
+  
 ## Author
 **ANCHAL CHILWAL**
 
