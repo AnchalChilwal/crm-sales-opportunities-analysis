@@ -36,20 +36,18 @@ CRM Sales Analysis is a comprehensive data analytics project in which raw sales 
 * Kan-code has an employee distribution count of **34,288**.
 * The Software sector has an employee distribution count of **79,950**.
 
-## Sales Team Analysis
+### Sales Team Analysis
 *  Manager **Melvin Marxen** generated the highest revenue of **$2,251,930** with **882 won deals**.
 *  Manager **Rocco Neubert** has a win rate of **52.07%** and the least average deal closure time of **45.84 days**.
 *  Sales agent **Darcel Schlecht** generated the highest revenue of **$1,153,214** and has the highest number of won deals at **349**.
 *  Sales agent **Reed Clapper** has the highest win rate of **65.40%**.
 *  Sales agent **Cecily Lapkin** has the least average deal closure time of **38.74 days**.
 
-## Quarter and Product Analysis
+### Quarter and Product Analysis
 * Q1 revenue is **$1,134,672**, with **531 won deals**, **116 lost deals**, and a win rate of **82.07%**.
 * Q2 revenue is **$3,086,111**, with **1,254 won deals**, **778 lost deals**, and a win rate of **61.71%**.
 * Q3 revenue is **$2,982,255**, with **1,257 won deals**, **790 lost deals**, and a win rate of **61.41%**.
 * Q4 revenue is **$2,802,496**, with **1,196 won deals**, **789 lost deals**, and a win rate of **60.25%**.
-
-### Product Performance
 * MG Special revenue is **$43,768**, with **793 won deals**, **430 lost deals**, and a win rate of **48.03%**.
 * GTK 500 revenue is **$400,612**, with **15 won deals**, **10 lost deals**, and a win rate of **37.50%**.
 * MG Advanced revenue is **$2,216,387**, with **654 won deals**, **430 lost deals**, and a win rate of **46.32%**.
