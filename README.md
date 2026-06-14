@@ -1,4 +1,4 @@
-# CRM Sales Opportinities Analysis
+# CRM Sales Opportunities Analysis
 ## Brief Summary
 CRM Sales Analysis is a comprehensive data analytics project in which raw sales data was cleaned, processed, transformed, and analyzed using SQL Server. The insights were then visualized through interactive dashboards built in Power BI to support data-driven decision-making.
 
