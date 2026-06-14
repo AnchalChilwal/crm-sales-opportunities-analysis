@@ -60,7 +60,7 @@ CRM Sales Analysis is a comprehensive data analytics project in which raw sales 
 ## SQL Queries
 - [Data Preparation & Data Quality Assessment](CRM%20Sales%20Analysis/SQL%20Queries/Data%20Preparation%20%26%20Data%20Quality%20Assessment(%20SQL%20Query%201).sql)
 - [New Clean Tables](CRM%20Sales%20Analysis/SQL%20Queries/New%20Clean%20Tables(SQL%20Query%202).sql)
-- [Inserting Data in Clean Tables](CRM%20Sales%20Analysis/SQL%20Queries/New%20Clean%20Tables(SQL%20Query%202).sql)
+- [Inserting Data in Clean Tables](CRM%20Sales%20Analysis/SQL%20Queries/Inserting%20Data%20in%20Clean%20Table(SQL%20Query%203).sql)
 - [EDA](CRM%20Sales%20Analysis/SQL%20Queries/EDA%20(SQL%20Query%204).sql)
 
 ## Dashboard
