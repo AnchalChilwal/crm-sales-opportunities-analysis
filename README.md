@@ -48,7 +48,7 @@ CRM Sales Analysis is a comprehensive data analytics project in which raw sales 
 
 
 ## PowerBI 
-[!Dashboard](CRM%20Sales%20Analysis/CRM%20Sales/CRM%20Sales.pbix)
+![Dashboard](CRM%20Sales%20Analysis/CRM%20Sales/CRM%20Sales.pbix)
 
 ## Results & Conclusion
 
